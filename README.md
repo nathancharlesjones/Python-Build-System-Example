@@ -6,7 +6,7 @@ A C project that demonstrates use of the [Python Build System](https://github.co
 
 ## How do I use it?
 
-1) Clone this repo.
+1) Clone this repo; use `git clone --recurse-submodules https://github.com/nathancharlesjones/Python-Build-System-Example` to ensure that you also get the `Python-Build-System` subfolder.
 
 2) If you're planning on using the Dockerfile:
     - Inspect the Dockerfile to see if there are any additional programs you'll want. Only `build-essentials` is required for normal GCC projects (it includes `gcc`, `g++`, and `make`).
