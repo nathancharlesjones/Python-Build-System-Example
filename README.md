@@ -24,7 +24,7 @@ A C project that demonstrates use of the [Python Build System](https://github.co
 ---
 **NOTE**
 
-The filepaths used in these Python files are only really set up for a Unix system. If you're trying to build a project with this script on Windows, you'll need to use Docker, or rewrite the parts of the files that use Unix-specific conventions, such as for filepaths or for shell commands like `rm`.
+The filepaths used in these Python files are only really set up for a Unix system. If you're trying to build a project with this script on Windows, you'll need to use Docker/WSL, or rewrite the parts of the files that use Unix-specific conventions, such as for filepaths or for shell commands like `rm`.
 
 ---
 
