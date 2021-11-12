@@ -19,7 +19,8 @@ A C project that demonstrates use of the [Python Build System](https://github.co
 
 3) From a shell on your system, navigate back to this project's root folder. Run the following to build the project:
 
-`./Python-Build-System/make.py -b`
+Unix: `./Python-Build-System/make.py -b`
+Windows: `python3 ./Python-Build-System/make.py -b`
 
 ---
 **NOTE**
